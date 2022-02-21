@@ -1,5 +1,8 @@
 # graduation-admissions-prediction
 
+
+**this project is for "Pattern Recognation" course**
+
 ***Introduction***
 
 Am I going to enter my dream university?
